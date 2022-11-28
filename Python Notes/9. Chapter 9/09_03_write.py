@@ -1,0 +1,10 @@
+f = open('another.txt', 'w')
+f.write("I am writing ") 
+f.write("I am writing ") 
+f.close()
+
+f = open("this1.txt", 'w')
+f.write("This is nice ")
+f.write("This is not nice ")
+f.write("Shubham Bhai ")
+f.close()
